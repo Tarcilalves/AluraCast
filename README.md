@@ -20,7 +20,7 @@
 ### Construindo layouts com Grid
 >Projeto de desenvolvimento de habilidade para construção de layouts responsivos com o poderoso recurso do CSS baseado em Grid. <br>
 - Aprendi a identificar as principais caracteristicas de um layout baseado em grid, compreendendo a estrutura e os conceitos por trás de sistema de posicionamento de elementos.<br>
-- Além disso, aprendi a modificar o alinhamento vertival e horizontal dos elementos, garantindo que o design fique alinhado e equilibrado. E também o cálculo do espaçamneto entre os elementos, permitindo que crie designs harmonioso e bem espaçados.<br>
+- Além disso, aprendi a modificar o alinhamento vertival e horizontal dos elementos, garantindo que o design fique alinhado e equilibrado, calculando o espaçamento entre os elementos, permitindo que crie designs harmonioso e bem espaçados.<br>
 > Dentro do Curso tive a oportunidade de aplicar todo o conhecimento adquirido nesse projeto, para demostrar minhas habilidades recém-adquiridas. 
 
 
