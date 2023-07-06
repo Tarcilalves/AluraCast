@@ -26,7 +26,7 @@
 
 # Status do Projeto
 <br><br>
-<p align="center">  :construction: <img src="https://img.shields.io/badge/<STATUS>- Finalizado -<COLOR>"> :construction: </p>
+<p align="center">  :construction: <img src="https://img.shields.io/badge/<STATUS>- em desenvolvimento -<COLOR>"> :construction: </p>
 <br><br>
 
 # Funcionalidades do projeto
